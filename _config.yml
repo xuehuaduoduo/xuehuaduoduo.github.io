@@ -138,7 +138,7 @@ backup:
   type: git
   message: Hexo backup
   repository: 
-    github: git@github.com:xuehuaduoduo/xuehuaduoduo.github.io.git,backup
+    github: git@github.com:xuehuaduoduo/xuehuaduoduo.github.io.git,backup2
 
 symbols_count_time:
   symbols: true                # 文章字数统计
