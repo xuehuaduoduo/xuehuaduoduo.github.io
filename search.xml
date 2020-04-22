@@ -1,42 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>2018春招面试总结</title>
-    <url>/2018%E6%98%A5%E6%8B%9B%E9%9D%A2%E8%AF%95%E6%80%BB%E7%BB%93.html</url>
-    <content><![CDATA[<hr>
-<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><blockquote>
-<p>从3月底到4月中旬，经过半个月的面试，终于在4月17号顺利拿到了阿里的 offer，感谢这段时间内面试官、家人和朋友的帮助和鼓励。下面我会总结一些企业关注的点和面试的一些技巧。</p>
-</blockquote>
-<a id="more"></a>
-
-<h2 id="企业关注的点"><a href="#企业关注的点" class="headerlink" title="企业关注的点"></a>企业关注的点</h2><p>我认为大企业招聘技术实习生或者是应届生时关注有以下几点：</p>
-<ul>
-<li>你的学历（很重要，我腾讯现场二面估计就是挂在这上面，一上来就问我学校的排名😂）</li>
-<li>你的成绩排名</li>
-<li>你的项目经验</li>
-<li>你的比赛奖项（关注会比较少，除非是获得 acm 那种大型比赛）</li>
-<li>对技术是否热情</li>
-<li>你的计算机基础</li>
-<li>你的价值观</li>
-<li>你的性格</li>
-<li>你对当前应聘岗位的知识储备</li>
-<li>沟通能力和团队协作</li>
-<li>是否能够主动去学习新的东西</li>
-</ul>
-<p>在面试时，这些方面都会有所体现。<br>比如问你一些常规性问题（考察你对当前应聘岗位的知识储备）。<br>问你一些计算机基础问题（考察你的计算机基础）。<br>HR 问你一些关于性格优缺点和一些其他问题（考察你的性格和你的价值观）。<br>问你一些场景题（考察你的项目经验）。<br>问你最近看什么书或者你常逛什么技术社区（考察你是否能够主动去学习新的东西和你对技术是否有热情）等等。</p>
-<h2 id="面试技巧"><a href="#面试技巧" class="headerlink" title="面试技巧"></a>面试技巧</h2><p>首先，在面试中，<strong>一定要自信不要紧张</strong>。遇到不会的问题不要慌张，可以将不会的问题转化为自己会的问题。我举个例子，比如面试官问你前端的<code>async</code> 和 <code>await</code> ，那么此时如果你这个不会，那么你可以问一下面试官这个主要是干嘛的，面试官一般都会跟你解释，他告诉你这是异步，那么你就可以往异步的方面靠，这样会让面试官觉得你掌握的还行🙂。</p>
-<p>其次，就是<strong>简历的项目经验和技能一定要写好</strong>，因为面试官会一直问项目的实现，难点，和项目产生的背景。然后会问你在简历上的一些相关技能。个人认为如果不太会的技能就不要写上去。比如我写了<strong>了解</strong>前端安全和性能优化，然后很多面试官就问这个。。。一直问。。。还好准备的比较充分，不然就 gg 了🤣</p>
-<p>最后，在面试时，<strong>千万不要抱怨你的队友，即便队友很水</strong>。我举个反例，有人在 hr 面试时，hr 问他对队友看法，然后他说队友很水，整个项目都是他在写，然后当天就挂了。你想，企业会要背后说别人闲话的人吗？</p>
-<p>最后的最后，面试一定要保持<strong>积极的心态</strong>，就当面试是在自我学习的过程，每次面试都自我反省一下，到底哪些问题回答不好，然后去查缺补漏，这样一定会收获到一个自己满意的 offer 😀</p>
-]]></content>
-      <categories>
-        <category>随笔</category>
-      </categories>
-      <tags>
-        <tag>面试</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>hahaha</title>
     <url>/hahaha.html</url>
     <content><![CDATA[<p>hahaha111</p>
@@ -92,6 +56,42 @@
       </categories>
       <tags>
         <tag>技巧</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2018春招面试总结</title>
+    <url>/2018%E6%98%A5%E6%8B%9B%E9%9D%A2%E8%AF%95%E6%80%BB%E7%BB%93.html</url>
+    <content><![CDATA[<hr>
+<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><blockquote>
+<p>从3月底到4月中旬，经过半个月的面试，终于在4月17号顺利拿到了阿里的 offer，感谢这段时间内面试官、家人和朋友的帮助和鼓励。下面我会总结一些企业关注的点和面试的一些技巧。</p>
+</blockquote>
+<a id="more"></a>
+
+<h2 id="企业关注的点"><a href="#企业关注的点" class="headerlink" title="企业关注的点"></a>企业关注的点</h2><p>我认为大企业招聘技术实习生或者是应届生时关注有以下几点：</p>
+<ul>
+<li>你的学历（很重要，我腾讯现场二面估计就是挂在这上面，一上来就问我学校的排名😂）</li>
+<li>你的成绩排名</li>
+<li>你的项目经验</li>
+<li>你的比赛奖项（关注会比较少，除非是获得 acm 那种大型比赛）</li>
+<li>对技术是否热情</li>
+<li>你的计算机基础</li>
+<li>你的价值观</li>
+<li>你的性格</li>
+<li>你对当前应聘岗位的知识储备</li>
+<li>沟通能力和团队协作</li>
+<li>是否能够主动去学习新的东西</li>
+</ul>
+<p>在面试时，这些方面都会有所体现。<br>比如问你一些常规性问题（考察你对当前应聘岗位的知识储备）。<br>问你一些计算机基础问题（考察你的计算机基础）。<br>HR 问你一些关于性格优缺点和一些其他问题（考察你的性格和你的价值观）。<br>问你一些场景题（考察你的项目经验）。<br>问你最近看什么书或者你常逛什么技术社区（考察你是否能够主动去学习新的东西和你对技术是否有热情）等等。</p>
+<h2 id="面试技巧"><a href="#面试技巧" class="headerlink" title="面试技巧"></a>面试技巧</h2><p>首先，在面试中，<strong>一定要自信不要紧张</strong>。遇到不会的问题不要慌张，可以将不会的问题转化为自己会的问题。我举个例子，比如面试官问你前端的<code>async</code> 和 <code>await</code> ，那么此时如果你这个不会，那么你可以问一下面试官这个主要是干嘛的，面试官一般都会跟你解释，他告诉你这是异步，那么你就可以往异步的方面靠，这样会让面试官觉得你掌握的还行🙂。</p>
+<p>其次，就是<strong>简历的项目经验和技能一定要写好</strong>，因为面试官会一直问项目的实现，难点，和项目产生的背景。然后会问你在简历上的一些相关技能。个人认为如果不太会的技能就不要写上去。比如我写了<strong>了解</strong>前端安全和性能优化，然后很多面试官就问这个。。。一直问。。。还好准备的比较充分，不然就 gg 了🤣</p>
+<p>最后，在面试时，<strong>千万不要抱怨你的队友，即便队友很水</strong>。我举个反例，有人在 hr 面试时，hr 问他对队友看法，然后他说队友很水，整个项目都是他在写，然后当天就挂了。你想，企业会要背后说别人闲话的人吗？</p>
+<p>最后的最后，面试一定要保持<strong>积极的心态</strong>，就当面试是在自我学习的过程，每次面试都自我反省一下，到底哪些问题回答不好，然后去查缺补漏，这样一定会收获到一个自己满意的 offer 😀</p>
+]]></content>
+      <categories>
+        <category>随笔</category>
+      </categories>
+      <tags>
+        <tag>面试</tag>
       </tags>
   </entry>
   <entry>
@@ -630,6 +630,34 @@
       </tags>
   </entry>
   <entry>
+    <title>js 的 call 与 apply 速度对比</title>
+    <url>/js-%E7%9A%84-call-%E4%B8%8E-apply-%E9%80%9F%E5%BA%A6%E5%AF%B9%E6%AF%94.html</url>
+    <content><![CDATA[<hr>
+<blockquote>
+<p>最近在看 underscore 的源码时发现，作者好多都用 call，而用 apply 比较少，比如说下面这段：👇</p>
+</blockquote>
+<a id="more"></a>
+
+<figure class="highlight javascript"><table><tr><td class="code"><pre><span class="line"><span class="keyword">var</span> optimizeCb = <span class="function"><span class="keyword">function</span>(<span class="params">func, context, argCount</span>) </span>&#123;</span><br><span class="line">  <span class="comment">// 如果没有指定 this 指向，则返回原函数</span></span><br><span class="line">  <span class="keyword">if</span> (context === <span class="keyword">void</span> <span class="number">0</span>) <span class="keyword">return</span> func;</span><br><span class="line"></span><br><span class="line">  <span class="keyword">switch</span> (argCount == <span class="literal">null</span> ? <span class="number">3</span> : argCount) &#123;</span><br><span class="line">    <span class="keyword">case</span> <span class="number">1</span>:</span><br><span class="line">      <span class="keyword">return</span> <span class="function"><span class="keyword">function</span>(<span class="params">value</span>) </span>&#123;</span><br><span class="line">        <span class="keyword">return</span> func.call(context, value);</span><br><span class="line">      &#125;;</span><br><span class="line">    <span class="keyword">case</span> <span class="number">2</span>:</span><br><span class="line">      <span class="keyword">return</span> <span class="function"><span class="keyword">function</span>(<span class="params">value, other</span>) </span>&#123;</span><br><span class="line">        <span class="keyword">return</span> func.call(context, value, other);</span><br><span class="line">      &#125;;</span><br><span class="line"></span><br><span class="line">    <span class="comment">// 如果有指定 this，但没有传入 argCount 参数</span></span><br><span class="line">    <span class="comment">// 则执行以下 case</span></span><br><span class="line">    <span class="keyword">case</span> <span class="number">3</span>:</span><br><span class="line">      <span class="keyword">return</span> <span class="function"><span class="keyword">function</span>(<span class="params">value, index, collection</span>) </span>&#123;</span><br><span class="line">        <span class="keyword">return</span> func.call(context, value, index, collection);</span><br><span class="line">      &#125;;</span><br><span class="line">    <span class="keyword">case</span> <span class="number">4</span>:</span><br><span class="line">      <span class="keyword">return</span> <span class="function"><span class="keyword">function</span>(<span class="params">accumulator, value, index, collection</span>) </span>&#123;</span><br><span class="line">        <span class="keyword">return</span> func.call(context, accumulator, value, index, collection);</span><br><span class="line">      &#125;;</span><br><span class="line">  &#125;</span><br><span class="line">&#125;;</span><br></pre></td></tr></table></figure>
+<p>既然 call 和 apply 都能用，那为什么只用 call 而不用 apply 呢？<br>经过网上的搜索发现，<strong>call 比 apply 速度快</strong>，在 console运行如下代码：</p>
+<figure class="highlight javascript"><table><tr><td class="code"><pre><span class="line"><span class="function"><span class="keyword">function</span> <span class="title">x</span>(<span class="params">a,b</span>) </span>&#123;&#125;</span><br><span class="line"><span class="keyword">var</span> a = [<span class="number">1</span>, <span class="number">2</span>, <span class="number">3</span>];</span><br><span class="line"><span class="built_in">console</span>.time(<span class="string">"call"</span>);</span><br><span class="line"><span class="keyword">for</span> (<span class="keyword">var</span> i = <span class="number">0</span>; i &lt; <span class="number">1000000</span>; i++) &#123;</span><br><span class="line">  x.call(<span class="keyword">this</span>, <span class="number">1</span>, <span class="number">2</span>, <span class="number">3</span>);</span><br><span class="line">&#125;</span><br><span class="line"><span class="built_in">console</span>.timeEnd(<span class="string">"call"</span>);</span><br><span class="line"></span><br><span class="line"><span class="built_in">console</span>.time(<span class="string">"apply"</span>);</span><br><span class="line"><span class="keyword">for</span> (<span class="keyword">var</span> j = <span class="number">0</span>; j &lt; <span class="number">1000000</span>; j++) &#123;</span><br><span class="line">  x.apply(<span class="keyword">this</span>, a);</span><br><span class="line">&#125;</span><br><span class="line"><span class="built_in">console</span>.timeEnd(<span class="string">"apply"</span>);</span><br></pre></td></tr></table></figure>
+
+<p>console的结果：</p>
+<p><img src="http://upload-images.jianshu.io/upload_images/5308475-2f25092ecb658b17.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""></p>
+<p>可以发现 call 比 apply 快了10ms 左右，那是什么原因造成这样的呢？<br><strong>因为 apply 运行前要对作为参数的数组进行一系列检验和深拷贝，而 call 则没有</strong><br>我们看一下 ECMAScript 是怎么写的：</p>
+<p><img src="http://upload-images.jianshu.io/upload_images/5308475-40f7c9167b3a338d.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""></p>
+<p><img src="http://upload-images.jianshu.io/upload_images/5308475-93025d076479f624.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""></p>
+<p>由ECMAScript 标准发现 apply 比 call 的步骤多了好多，这就是 call 比 apply 执行速度快的原因！</p>
+]]></content>
+      <categories>
+        <category>前端</category>
+      </categories>
+      <tags>
+        <tag>前端</tag>
+        <tag>js</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>html5调用摄像头功能</title>
     <url>/html5%E8%B0%83%E7%94%A8%E6%91%84%E5%83%8F%E5%A4%B4%E5%8A%9F%E8%83%BD.html</url>
     <content><![CDATA[<hr>
@@ -668,36 +696,8 @@
       </categories>
       <tags>
         <tag>前端</tag>
+        <tag>js</tag>
         <tag>html</tag>
-        <tag>js</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>js 的 call 与 apply 速度对比</title>
-    <url>/js-%E7%9A%84-call-%E4%B8%8E-apply-%E9%80%9F%E5%BA%A6%E5%AF%B9%E6%AF%94.html</url>
-    <content><![CDATA[<hr>
-<blockquote>
-<p>最近在看 underscore 的源码时发现，作者好多都用 call，而用 apply 比较少，比如说下面这段：👇</p>
-</blockquote>
-<a id="more"></a>
-
-<figure class="highlight javascript"><table><tr><td class="code"><pre><span class="line"><span class="keyword">var</span> optimizeCb = <span class="function"><span class="keyword">function</span>(<span class="params">func, context, argCount</span>) </span>&#123;</span><br><span class="line">  <span class="comment">// 如果没有指定 this 指向，则返回原函数</span></span><br><span class="line">  <span class="keyword">if</span> (context === <span class="keyword">void</span> <span class="number">0</span>) <span class="keyword">return</span> func;</span><br><span class="line"></span><br><span class="line">  <span class="keyword">switch</span> (argCount == <span class="literal">null</span> ? <span class="number">3</span> : argCount) &#123;</span><br><span class="line">    <span class="keyword">case</span> <span class="number">1</span>:</span><br><span class="line">      <span class="keyword">return</span> <span class="function"><span class="keyword">function</span>(<span class="params">value</span>) </span>&#123;</span><br><span class="line">        <span class="keyword">return</span> func.call(context, value);</span><br><span class="line">      &#125;;</span><br><span class="line">    <span class="keyword">case</span> <span class="number">2</span>:</span><br><span class="line">      <span class="keyword">return</span> <span class="function"><span class="keyword">function</span>(<span class="params">value, other</span>) </span>&#123;</span><br><span class="line">        <span class="keyword">return</span> func.call(context, value, other);</span><br><span class="line">      &#125;;</span><br><span class="line"></span><br><span class="line">    <span class="comment">// 如果有指定 this，但没有传入 argCount 参数</span></span><br><span class="line">    <span class="comment">// 则执行以下 case</span></span><br><span class="line">    <span class="keyword">case</span> <span class="number">3</span>:</span><br><span class="line">      <span class="keyword">return</span> <span class="function"><span class="keyword">function</span>(<span class="params">value, index, collection</span>) </span>&#123;</span><br><span class="line">        <span class="keyword">return</span> func.call(context, value, index, collection);</span><br><span class="line">      &#125;;</span><br><span class="line">    <span class="keyword">case</span> <span class="number">4</span>:</span><br><span class="line">      <span class="keyword">return</span> <span class="function"><span class="keyword">function</span>(<span class="params">accumulator, value, index, collection</span>) </span>&#123;</span><br><span class="line">        <span class="keyword">return</span> func.call(context, accumulator, value, index, collection);</span><br><span class="line">      &#125;;</span><br><span class="line">  &#125;</span><br><span class="line">&#125;;</span><br></pre></td></tr></table></figure>
-<p>既然 call 和 apply 都能用，那为什么只用 call 而不用 apply 呢？<br>经过网上的搜索发现，<strong>call 比 apply 速度快</strong>，在 console运行如下代码：</p>
-<figure class="highlight javascript"><table><tr><td class="code"><pre><span class="line"><span class="function"><span class="keyword">function</span> <span class="title">x</span>(<span class="params">a,b</span>) </span>&#123;&#125;</span><br><span class="line"><span class="keyword">var</span> a = [<span class="number">1</span>, <span class="number">2</span>, <span class="number">3</span>];</span><br><span class="line"><span class="built_in">console</span>.time(<span class="string">"call"</span>);</span><br><span class="line"><span class="keyword">for</span> (<span class="keyword">var</span> i = <span class="number">0</span>; i &lt; <span class="number">1000000</span>; i++) &#123;</span><br><span class="line">  x.call(<span class="keyword">this</span>, <span class="number">1</span>, <span class="number">2</span>, <span class="number">3</span>);</span><br><span class="line">&#125;</span><br><span class="line"><span class="built_in">console</span>.timeEnd(<span class="string">"call"</span>);</span><br><span class="line"></span><br><span class="line"><span class="built_in">console</span>.time(<span class="string">"apply"</span>);</span><br><span class="line"><span class="keyword">for</span> (<span class="keyword">var</span> j = <span class="number">0</span>; j &lt; <span class="number">1000000</span>; j++) &#123;</span><br><span class="line">  x.apply(<span class="keyword">this</span>, a);</span><br><span class="line">&#125;</span><br><span class="line"><span class="built_in">console</span>.timeEnd(<span class="string">"apply"</span>);</span><br></pre></td></tr></table></figure>
-
-<p>console的结果：</p>
-<p><img src="http://upload-images.jianshu.io/upload_images/5308475-2f25092ecb658b17.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""></p>
-<p>可以发现 call 比 apply 快了10ms 左右，那是什么原因造成这样的呢？<br><strong>因为 apply 运行前要对作为参数的数组进行一系列检验和深拷贝，而 call 则没有</strong><br>我们看一下 ECMAScript 是怎么写的：</p>
-<p><img src="http://upload-images.jianshu.io/upload_images/5308475-40f7c9167b3a338d.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""></p>
-<p><img src="http://upload-images.jianshu.io/upload_images/5308475-93025d076479f624.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""></p>
-<p>由ECMAScript 标准发现 apply 比 call 的步骤多了好多，这就是 call 比 apply 执行速度快的原因！</p>
-]]></content>
-      <categories>
-        <category>前端</category>
-      </categories>
-      <tags>
-        <tag>前端</tag>
-        <tag>js</tag>
       </tags>
   </entry>
   <entry>
@@ -1742,6 +1742,41 @@
       </tags>
   </entry>
   <entry>
+    <title>学生免费申请JetBrains许可证技巧</title>
+    <url>/%E5%AD%A6%E7%94%9F%E5%85%8D%E8%B4%B9%E7%94%B3%E8%AF%B7JetBrains%E8%AE%B8%E5%8F%AF%E8%AF%81%E6%8A%80%E5%B7%A7.html</url>
+    <content><![CDATA[<hr>
+<blockquote>
+<p>用过JetBrain公司出的软件的人都知道，这个公司出的软件都比较好用，像webstorm，phpstrom等等，但是就是太贵了。对于学生，可以免费使用jetbrain公司的软件，那么接下来我会讲一讲如何申请免费</p>
+</blockquote>
+<a id="more"></a>
+
+<ul>
+<li><h2 id="学生免费申请许可证地址："><a href="#学生免费申请许可证地址：" class="headerlink" title="学生免费申请许可证地址："></a>学生免费申请许可证地址：</h2><p><a href="https://www.jetbrains.com/student/" target="_blank" rel="noopener">https://www.jetbrains.com/student/</a></p>
+</li>
+<li><h2 id="点击apply-now出现如下图："><a href="#点击apply-now出现如下图：" class="headerlink" title="点击apply now出现如下图："></a>点击<strong>apply now</strong>出现如下图：</h2><p><img src="http://upload-images.jianshu.io/upload_images/5308475-023ecea6cc39f83b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""></p>
+</li>
+<li><h2 id="支持的验证方法有："><a href="#支持的验证方法有：" class="headerlink" title="支持的验证方法有："></a>支持的验证方法有：</h2><ul>
+<li><strong>邮件认证</strong>: 如果你的学校对学生有提供类似<code>@.edu</code>或者是 <code>@.edu.cn</code> 的邮箱，那么你可以通过这种方式去认证。</li>
+<li><strong>ISIC/ITIC 认证</strong>： 这个没试过，不知道要怎么弄 —__—</li>
+<li><strong>文档认证：</strong> 我是申请这个的，这个需要你的学生证 ===&gt;</li>
+</ul>
+</li>
+<li><p><em>这里填你的学校就行了！*</em><br><img src="http://upload-images.jianshu.io/upload_images/5308475-b98083bbc997b093.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""><strong>Comment里面填一些你想说的话，然后点APPLY FOR FREE PRODUCTS，就申请完成了!</strong><br><img src="http://upload-images.jianshu.io/upload_images/5308475-7360994c4204383a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""> </p>
+</li>
+<li><h2 id="等"><a href="#等" class="headerlink" title="等"></a>等</h2><p>我是星期六申请的，星期一晚上就发邮件给我了，大约用了3天左右，如图：<br><img src="http://upload-images.jianshu.io/upload_images/5308475-4375c88f24022183.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""><br>点 <strong>Activate Educational License</strong>就激活成功了！<br>我用<strong>phpstrom</strong>举例子<br><img src="http://upload-images.jianshu.io/upload_images/5308475-0ef3e9d44898ad7f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="">在这里输入你获得的许可证就能成功激活了。</p>
+</li>
+<li><p><em>注意，许可证有效期为1年!（过期了可重新申请）*</em></p>
+</li>
+</ul>
+]]></content>
+      <categories>
+        <category>技巧</category>
+      </categories>
+      <tags>
+        <tag>技巧</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>有关HTML常被问到的知识点</title>
     <url>/%E6%9C%89%E5%85%B3HTML%E5%B8%B8%E8%A2%AB%E9%97%AE%E5%88%B0%E7%9A%84%E7%9F%A5%E8%AF%86%E7%82%B9.html</url>
     <content><![CDATA[<hr>
@@ -1973,41 +2008,6 @@
       </categories>
       <tags>
         <tag>html</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>学生免费申请JetBrains许可证技巧</title>
-    <url>/%E5%AD%A6%E7%94%9F%E5%85%8D%E8%B4%B9%E7%94%B3%E8%AF%B7JetBrains%E8%AE%B8%E5%8F%AF%E8%AF%81%E6%8A%80%E5%B7%A7.html</url>
-    <content><![CDATA[<hr>
-<blockquote>
-<p>用过JetBrain公司出的软件的人都知道，这个公司出的软件都比较好用，像webstorm，phpstrom等等，但是就是太贵了。对于学生，可以免费使用jetbrain公司的软件，那么接下来我会讲一讲如何申请免费</p>
-</blockquote>
-<a id="more"></a>
-
-<ul>
-<li><h2 id="学生免费申请许可证地址："><a href="#学生免费申请许可证地址：" class="headerlink" title="学生免费申请许可证地址："></a>学生免费申请许可证地址：</h2><p><a href="https://www.jetbrains.com/student/" target="_blank" rel="noopener">https://www.jetbrains.com/student/</a></p>
-</li>
-<li><h2 id="点击apply-now出现如下图："><a href="#点击apply-now出现如下图：" class="headerlink" title="点击apply now出现如下图："></a>点击<strong>apply now</strong>出现如下图：</h2><p><img src="http://upload-images.jianshu.io/upload_images/5308475-023ecea6cc39f83b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""></p>
-</li>
-<li><h2 id="支持的验证方法有："><a href="#支持的验证方法有：" class="headerlink" title="支持的验证方法有："></a>支持的验证方法有：</h2><ul>
-<li><strong>邮件认证</strong>: 如果你的学校对学生有提供类似<code>@.edu</code>或者是 <code>@.edu.cn</code> 的邮箱，那么你可以通过这种方式去认证。</li>
-<li><strong>ISIC/ITIC 认证</strong>： 这个没试过，不知道要怎么弄 —__—</li>
-<li><strong>文档认证：</strong> 我是申请这个的，这个需要你的学生证 ===&gt;</li>
-</ul>
-</li>
-<li><p><em>这里填你的学校就行了！*</em><br><img src="http://upload-images.jianshu.io/upload_images/5308475-b98083bbc997b093.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""><strong>Comment里面填一些你想说的话，然后点APPLY FOR FREE PRODUCTS，就申请完成了!</strong><br><img src="http://upload-images.jianshu.io/upload_images/5308475-7360994c4204383a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""> </p>
-</li>
-<li><h2 id="等"><a href="#等" class="headerlink" title="等"></a>等</h2><p>我是星期六申请的，星期一晚上就发邮件给我了，大约用了3天左右，如图：<br><img src="http://upload-images.jianshu.io/upload_images/5308475-4375c88f24022183.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""><br>点 <strong>Activate Educational License</strong>就激活成功了！<br>我用<strong>phpstrom</strong>举例子<br><img src="http://upload-images.jianshu.io/upload_images/5308475-0ef3e9d44898ad7f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="">在这里输入你获得的许可证就能成功激活了。</p>
-</li>
-<li><p><em>注意，许可证有效期为1年!（过期了可重新申请）*</em></p>
-</li>
-</ul>
-]]></content>
-      <categories>
-        <category>技巧</category>
-      </categories>
-      <tags>
-        <tag>技巧</tag>
       </tags>
   </entry>
   <entry>
@@ -2342,31 +2342,6 @@
       </tags>
   </entry>
   <entry>
-    <title>解决安装electron卡在node install.js 不动问题</title>
-    <url>/%E8%A7%A3%E5%86%B3%E5%AE%89%E8%A3%85electron%E5%8D%A1%E5%9C%A8node-install-js-%E4%B8%8D%E5%8A%A8%E9%97%AE%E9%A2%98.html</url>
-    <content><![CDATA[<hr>
-<blockquote>
-<p>在安装electron的时候，一直卡在node install.js不动😭，翻了墙也不行，于是在 github 上搜索终于找到解决方法，为此记录下来📝</p>
-</blockquote>
-<a id="more"></a>
-
-<h2 id="说明"><a href="#说明" class="headerlink" title="说明"></a>说明</h2><p><code>install.js</code>,里面的下载是依赖于<code>electron-download</code>这个模块<br><img src="http://upload-images.jianshu.io/upload_images/5308475-6a5758873a75a2c5.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""></p>
-<p>搜索<a href="https://github.com/electron-userland/electron-download" target="_blank" rel="noopener">electron-download</a>发现：👇</p>
-<p><img src="http://upload-images.jianshu.io/upload_images/5308475-0b73ee9483927679.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""></p>
-<h2 id="解决方法"><a href="#解决方法" class="headerlink" title="解决方法"></a>解决方法</h2><p>打开终端，输入<code>vi ~/.npmrc</code>,在里面添加</p>
-<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">electron_mirror&#x3D;&quot;https:&#x2F;&#x2F;npm.taobao.org&#x2F;mirrors&#x2F;electron&#x2F;&quot;</span><br></pre></td></tr></table></figure>
-
-<p><img src="http://upload-images.jianshu.io/upload_images/5308475-433a4c62d776c545.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""></p>
-<p>再试一次<code>npm install electron -g</code>,这次就成功了😄</p>
-]]></content>
-      <categories>
-        <category>技巧</category>
-      </categories>
-      <tags>
-        <tag>技巧</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>解决inline-block元素的bug</title>
     <url>/%E8%A7%A3%E5%86%B3inline-block%E5%85%83%E7%B4%A0%E7%9A%84bug.html</url>
     <content><![CDATA[<hr>
@@ -2419,6 +2394,31 @@
       </categories>
       <tags>
         <tag>css</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>解决安装electron卡在node install.js 不动问题</title>
+    <url>/%E8%A7%A3%E5%86%B3%E5%AE%89%E8%A3%85electron%E5%8D%A1%E5%9C%A8node-install-js-%E4%B8%8D%E5%8A%A8%E9%97%AE%E9%A2%98.html</url>
+    <content><![CDATA[<hr>
+<blockquote>
+<p>在安装electron的时候，一直卡在node install.js不动😭，翻了墙也不行，于是在 github 上搜索终于找到解决方法，为此记录下来📝</p>
+</blockquote>
+<a id="more"></a>
+
+<h2 id="说明"><a href="#说明" class="headerlink" title="说明"></a>说明</h2><p><code>install.js</code>,里面的下载是依赖于<code>electron-download</code>这个模块<br><img src="http://upload-images.jianshu.io/upload_images/5308475-6a5758873a75a2c5.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""></p>
+<p>搜索<a href="https://github.com/electron-userland/electron-download" target="_blank" rel="noopener">electron-download</a>发现：👇</p>
+<p><img src="http://upload-images.jianshu.io/upload_images/5308475-0b73ee9483927679.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""></p>
+<h2 id="解决方法"><a href="#解决方法" class="headerlink" title="解决方法"></a>解决方法</h2><p>打开终端，输入<code>vi ~/.npmrc</code>,在里面添加</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">electron_mirror&#x3D;&quot;https:&#x2F;&#x2F;npm.taobao.org&#x2F;mirrors&#x2F;electron&#x2F;&quot;</span><br></pre></td></tr></table></figure>
+
+<p><img src="http://upload-images.jianshu.io/upload_images/5308475-433a4c62d776c545.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""></p>
+<p>再试一次<code>npm install electron -g</code>,这次就成功了😄</p>
+]]></content>
+      <categories>
+        <category>技巧</category>
+      </categories>
+      <tags>
+        <tag>技巧</tag>
       </tags>
   </entry>
 </search>
