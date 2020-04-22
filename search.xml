@@ -7,6 +7,42 @@
 ]]></content>
   </entry>
   <entry>
+    <title>2018春招面试总结</title>
+    <url>/2018%E6%98%A5%E6%8B%9B%E9%9D%A2%E8%AF%95%E6%80%BB%E7%BB%93.html</url>
+    <content><![CDATA[<hr>
+<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><blockquote>
+<p>从3月底到4月中旬，经过半个月的面试，终于在4月17号顺利拿到了阿里的 offer，感谢这段时间内面试官、家人和朋友的帮助和鼓励。下面我会总结一些企业关注的点和面试的一些技巧。</p>
+</blockquote>
+<a id="more"></a>
+
+<h2 id="企业关注的点"><a href="#企业关注的点" class="headerlink" title="企业关注的点"></a>企业关注的点</h2><p>我认为大企业招聘技术实习生或者是应届生时关注有以下几点：</p>
+<ul>
+<li>你的学历（很重要，我腾讯现场二面估计就是挂在这上面，一上来就问我学校的排名😂）</li>
+<li>你的成绩排名</li>
+<li>你的项目经验</li>
+<li>你的比赛奖项（关注会比较少，除非是获得 acm 那种大型比赛）</li>
+<li>对技术是否热情</li>
+<li>你的计算机基础</li>
+<li>你的价值观</li>
+<li>你的性格</li>
+<li>你对当前应聘岗位的知识储备</li>
+<li>沟通能力和团队协作</li>
+<li>是否能够主动去学习新的东西</li>
+</ul>
+<p>在面试时，这些方面都会有所体现。<br>比如问你一些常规性问题（考察你对当前应聘岗位的知识储备）。<br>问你一些计算机基础问题（考察你的计算机基础）。<br>HR 问你一些关于性格优缺点和一些其他问题（考察你的性格和你的价值观）。<br>问你一些场景题（考察你的项目经验）。<br>问你最近看什么书或者你常逛什么技术社区（考察你是否能够主动去学习新的东西和你对技术是否有热情）等等。</p>
+<h2 id="面试技巧"><a href="#面试技巧" class="headerlink" title="面试技巧"></a>面试技巧</h2><p>首先，在面试中，<strong>一定要自信不要紧张</strong>。遇到不会的问题不要慌张，可以将不会的问题转化为自己会的问题。我举个例子，比如面试官问你前端的<code>async</code> 和 <code>await</code> ，那么此时如果你这个不会，那么你可以问一下面试官这个主要是干嘛的，面试官一般都会跟你解释，他告诉你这是异步，那么你就可以往异步的方面靠，这样会让面试官觉得你掌握的还行🙂。</p>
+<p>其次，就是<strong>简历的项目经验和技能一定要写好</strong>，因为面试官会一直问项目的实现，难点，和项目产生的背景。然后会问你在简历上的一些相关技能。个人认为如果不太会的技能就不要写上去。比如我写了<strong>了解</strong>前端安全和性能优化，然后很多面试官就问这个。。。一直问。。。还好准备的比较充分，不然就 gg 了🤣</p>
+<p>最后，在面试时，<strong>千万不要抱怨你的队友，即便队友很水</strong>。我举个反例，有人在 hr 面试时，hr 问他对队友看法，然后他说队友很水，整个项目都是他在写，然后当天就挂了。你想，企业会要背后说别人闲话的人吗？</p>
+<p>最后的最后，面试一定要保持<strong>积极的心态</strong>，就当面试是在自我学习的过程，每次面试都自我反省一下，到底哪些问题回答不好，然后去查缺补漏，这样一定会收获到一个自己满意的 offer 😀</p>
+]]></content>
+      <categories>
+        <category>随笔</category>
+      </categories>
+      <tags>
+        <tag>面试</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Vimium 常用快捷键</title>
     <url>/Vimium-%E5%B8%B8%E7%94%A8%E5%BF%AB%E6%8D%B7%E9%94%AE.html</url>
     <content><![CDATA[<hr>
@@ -56,42 +92,6 @@
       </categories>
       <tags>
         <tag>技巧</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>2018春招面试总结</title>
-    <url>/2018%E6%98%A5%E6%8B%9B%E9%9D%A2%E8%AF%95%E6%80%BB%E7%BB%93.html</url>
-    <content><![CDATA[<hr>
-<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><blockquote>
-<p>从3月底到4月中旬，经过半个月的面试，终于在4月17号顺利拿到了阿里的 offer，感谢这段时间内面试官、家人和朋友的帮助和鼓励。下面我会总结一些企业关注的点和面试的一些技巧。</p>
-</blockquote>
-<a id="more"></a>
-
-<h2 id="企业关注的点"><a href="#企业关注的点" class="headerlink" title="企业关注的点"></a>企业关注的点</h2><p>我认为大企业招聘技术实习生或者是应届生时关注有以下几点：</p>
-<ul>
-<li>你的学历（很重要，我腾讯现场二面估计就是挂在这上面，一上来就问我学校的排名😂）</li>
-<li>你的成绩排名</li>
-<li>你的项目经验</li>
-<li>你的比赛奖项（关注会比较少，除非是获得 acm 那种大型比赛）</li>
-<li>对技术是否热情</li>
-<li>你的计算机基础</li>
-<li>你的价值观</li>
-<li>你的性格</li>
-<li>你对当前应聘岗位的知识储备</li>
-<li>沟通能力和团队协作</li>
-<li>是否能够主动去学习新的东西</li>
-</ul>
-<p>在面试时，这些方面都会有所体现。<br>比如问你一些常规性问题（考察你对当前应聘岗位的知识储备）。<br>问你一些计算机基础问题（考察你的计算机基础）。<br>HR 问你一些关于性格优缺点和一些其他问题（考察你的性格和你的价值观）。<br>问你一些场景题（考察你的项目经验）。<br>问你最近看什么书或者你常逛什么技术社区（考察你是否能够主动去学习新的东西和你对技术是否有热情）等等。</p>
-<h2 id="面试技巧"><a href="#面试技巧" class="headerlink" title="面试技巧"></a>面试技巧</h2><p>首先，在面试中，<strong>一定要自信不要紧张</strong>。遇到不会的问题不要慌张，可以将不会的问题转化为自己会的问题。我举个例子，比如面试官问你前端的<code>async</code> 和 <code>await</code> ，那么此时如果你这个不会，那么你可以问一下面试官这个主要是干嘛的，面试官一般都会跟你解释，他告诉你这是异步，那么你就可以往异步的方面靠，这样会让面试官觉得你掌握的还行🙂。</p>
-<p>其次，就是<strong>简历的项目经验和技能一定要写好</strong>，因为面试官会一直问项目的实现，难点，和项目产生的背景。然后会问你在简历上的一些相关技能。个人认为如果不太会的技能就不要写上去。比如我写了<strong>了解</strong>前端安全和性能优化，然后很多面试官就问这个。。。一直问。。。还好准备的比较充分，不然就 gg 了🤣</p>
-<p>最后，在面试时，<strong>千万不要抱怨你的队友，即便队友很水</strong>。我举个反例，有人在 hr 面试时，hr 问他对队友看法，然后他说队友很水，整个项目都是他在写，然后当天就挂了。你想，企业会要背后说别人闲话的人吗？</p>
-<p>最后的最后，面试一定要保持<strong>积极的心态</strong>，就当面试是在自我学习的过程，每次面试都自我反省一下，到底哪些问题回答不好，然后去查缺补漏，这样一定会收获到一个自己满意的 offer 😀</p>
-]]></content>
-      <categories>
-        <category>随笔</category>
-      </categories>
-      <tags>
-        <tag>面试</tag>
       </tags>
   </entry>
   <entry>
@@ -630,34 +630,6 @@
       </tags>
   </entry>
   <entry>
-    <title>js 的 call 与 apply 速度对比</title>
-    <url>/js-%E7%9A%84-call-%E4%B8%8E-apply-%E9%80%9F%E5%BA%A6%E5%AF%B9%E6%AF%94.html</url>
-    <content><![CDATA[<hr>
-<blockquote>
-<p>最近在看 underscore 的源码时发现，作者好多都用 call，而用 apply 比较少，比如说下面这段：👇</p>
-</blockquote>
-<a id="more"></a>
-
-<figure class="highlight javascript"><table><tr><td class="code"><pre><span class="line"><span class="keyword">var</span> optimizeCb = <span class="function"><span class="keyword">function</span>(<span class="params">func, context, argCount</span>) </span>&#123;</span><br><span class="line">  <span class="comment">// 如果没有指定 this 指向，则返回原函数</span></span><br><span class="line">  <span class="keyword">if</span> (context === <span class="keyword">void</span> <span class="number">0</span>) <span class="keyword">return</span> func;</span><br><span class="line"></span><br><span class="line">  <span class="keyword">switch</span> (argCount == <span class="literal">null</span> ? <span class="number">3</span> : argCount) &#123;</span><br><span class="line">    <span class="keyword">case</span> <span class="number">1</span>:</span><br><span class="line">      <span class="keyword">return</span> <span class="function"><span class="keyword">function</span>(<span class="params">value</span>) </span>&#123;</span><br><span class="line">        <span class="keyword">return</span> func.call(context, value);</span><br><span class="line">      &#125;;</span><br><span class="line">    <span class="keyword">case</span> <span class="number">2</span>:</span><br><span class="line">      <span class="keyword">return</span> <span class="function"><span class="keyword">function</span>(<span class="params">value, other</span>) </span>&#123;</span><br><span class="line">        <span class="keyword">return</span> func.call(context, value, other);</span><br><span class="line">      &#125;;</span><br><span class="line"></span><br><span class="line">    <span class="comment">// 如果有指定 this，但没有传入 argCount 参数</span></span><br><span class="line">    <span class="comment">// 则执行以下 case</span></span><br><span class="line">    <span class="keyword">case</span> <span class="number">3</span>:</span><br><span class="line">      <span class="keyword">return</span> <span class="function"><span class="keyword">function</span>(<span class="params">value, index, collection</span>) </span>&#123;</span><br><span class="line">        <span class="keyword">return</span> func.call(context, value, index, collection);</span><br><span class="line">      &#125;;</span><br><span class="line">    <span class="keyword">case</span> <span class="number">4</span>:</span><br><span class="line">      <span class="keyword">return</span> <span class="function"><span class="keyword">function</span>(<span class="params">accumulator, value, index, collection</span>) </span>&#123;</span><br><span class="line">        <span class="keyword">return</span> func.call(context, accumulator, value, index, collection);</span><br><span class="line">      &#125;;</span><br><span class="line">  &#125;</span><br><span class="line">&#125;;</span><br></pre></td></tr></table></figure>
-<p>既然 call 和 apply 都能用，那为什么只用 call 而不用 apply 呢？<br>经过网上的搜索发现，<strong>call 比 apply 速度快</strong>，在 console运行如下代码：</p>
-<figure class="highlight javascript"><table><tr><td class="code"><pre><span class="line"><span class="function"><span class="keyword">function</span> <span class="title">x</span>(<span class="params">a,b</span>) </span>&#123;&#125;</span><br><span class="line"><span class="keyword">var</span> a = [<span class="number">1</span>, <span class="number">2</span>, <span class="number">3</span>];</span><br><span class="line"><span class="built_in">console</span>.time(<span class="string">"call"</span>);</span><br><span class="line"><span class="keyword">for</span> (<span class="keyword">var</span> i = <span class="number">0</span>; i &lt; <span class="number">1000000</span>; i++) &#123;</span><br><span class="line">  x.call(<span class="keyword">this</span>, <span class="number">1</span>, <span class="number">2</span>, <span class="number">3</span>);</span><br><span class="line">&#125;</span><br><span class="line"><span class="built_in">console</span>.timeEnd(<span class="string">"call"</span>);</span><br><span class="line"></span><br><span class="line"><span class="built_in">console</span>.time(<span class="string">"apply"</span>);</span><br><span class="line"><span class="keyword">for</span> (<span class="keyword">var</span> j = <span class="number">0</span>; j &lt; <span class="number">1000000</span>; j++) &#123;</span><br><span class="line">  x.apply(<span class="keyword">this</span>, a);</span><br><span class="line">&#125;</span><br><span class="line"><span class="built_in">console</span>.timeEnd(<span class="string">"apply"</span>);</span><br></pre></td></tr></table></figure>
-
-<p>console的结果：</p>
-<p><img src="http://upload-images.jianshu.io/upload_images/5308475-2f25092ecb658b17.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""></p>
-<p>可以发现 call 比 apply 快了10ms 左右，那是什么原因造成这样的呢？<br><strong>因为 apply 运行前要对作为参数的数组进行一系列检验和深拷贝，而 call 则没有</strong><br>我们看一下 ECMAScript 是怎么写的：</p>
-<p><img src="http://upload-images.jianshu.io/upload_images/5308475-40f7c9167b3a338d.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""></p>
-<p><img src="http://upload-images.jianshu.io/upload_images/5308475-93025d076479f624.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""></p>
-<p>由ECMAScript 标准发现 apply 比 call 的步骤多了好多，这就是 call 比 apply 执行速度快的原因！</p>
-]]></content>
-      <categories>
-        <category>前端</category>
-      </categories>
-      <tags>
-        <tag>前端</tag>
-        <tag>js</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>html5调用摄像头功能</title>
     <url>/html5%E8%B0%83%E7%94%A8%E6%91%84%E5%83%8F%E5%A4%B4%E5%8A%9F%E8%83%BD.html</url>
     <content><![CDATA[<hr>
@@ -696,8 +668,36 @@
       </categories>
       <tags>
         <tag>前端</tag>
-        <tag>js</tag>
         <tag>html</tag>
+        <tag>js</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>js 的 call 与 apply 速度对比</title>
+    <url>/js-%E7%9A%84-call-%E4%B8%8E-apply-%E9%80%9F%E5%BA%A6%E5%AF%B9%E6%AF%94.html</url>
+    <content><![CDATA[<hr>
+<blockquote>
+<p>最近在看 underscore 的源码时发现，作者好多都用 call，而用 apply 比较少，比如说下面这段：👇</p>
+</blockquote>
+<a id="more"></a>
+
+<figure class="highlight javascript"><table><tr><td class="code"><pre><span class="line"><span class="keyword">var</span> optimizeCb = <span class="function"><span class="keyword">function</span>(<span class="params">func, context, argCount</span>) </span>&#123;</span><br><span class="line">  <span class="comment">// 如果没有指定 this 指向，则返回原函数</span></span><br><span class="line">  <span class="keyword">if</span> (context === <span class="keyword">void</span> <span class="number">0</span>) <span class="keyword">return</span> func;</span><br><span class="line"></span><br><span class="line">  <span class="keyword">switch</span> (argCount == <span class="literal">null</span> ? <span class="number">3</span> : argCount) &#123;</span><br><span class="line">    <span class="keyword">case</span> <span class="number">1</span>:</span><br><span class="line">      <span class="keyword">return</span> <span class="function"><span class="keyword">function</span>(<span class="params">value</span>) </span>&#123;</span><br><span class="line">        <span class="keyword">return</span> func.call(context, value);</span><br><span class="line">      &#125;;</span><br><span class="line">    <span class="keyword">case</span> <span class="number">2</span>:</span><br><span class="line">      <span class="keyword">return</span> <span class="function"><span class="keyword">function</span>(<span class="params">value, other</span>) </span>&#123;</span><br><span class="line">        <span class="keyword">return</span> func.call(context, value, other);</span><br><span class="line">      &#125;;</span><br><span class="line"></span><br><span class="line">    <span class="comment">// 如果有指定 this，但没有传入 argCount 参数</span></span><br><span class="line">    <span class="comment">// 则执行以下 case</span></span><br><span class="line">    <span class="keyword">case</span> <span class="number">3</span>:</span><br><span class="line">      <span class="keyword">return</span> <span class="function"><span class="keyword">function</span>(<span class="params">value, index, collection</span>) </span>&#123;</span><br><span class="line">        <span class="keyword">return</span> func.call(context, value, index, collection);</span><br><span class="line">      &#125;;</span><br><span class="line">    <span class="keyword">case</span> <span class="number">4</span>:</span><br><span class="line">      <span class="keyword">return</span> <span class="function"><span class="keyword">function</span>(<span class="params">accumulator, value, index, collection</span>) </span>&#123;</span><br><span class="line">        <span class="keyword">return</span> func.call(context, accumulator, value, index, collection);</span><br><span class="line">      &#125;;</span><br><span class="line">  &#125;</span><br><span class="line">&#125;;</span><br></pre></td></tr></table></figure>
+<p>既然 call 和 apply 都能用，那为什么只用 call 而不用 apply 呢？<br>经过网上的搜索发现，<strong>call 比 apply 速度快</strong>，在 console运行如下代码：</p>
+<figure class="highlight javascript"><table><tr><td class="code"><pre><span class="line"><span class="function"><span class="keyword">function</span> <span class="title">x</span>(<span class="params">a,b</span>) </span>&#123;&#125;</span><br><span class="line"><span class="keyword">var</span> a = [<span class="number">1</span>, <span class="number">2</span>, <span class="number">3</span>];</span><br><span class="line"><span class="built_in">console</span>.time(<span class="string">"call"</span>);</span><br><span class="line"><span class="keyword">for</span> (<span class="keyword">var</span> i = <span class="number">0</span>; i &lt; <span class="number">1000000</span>; i++) &#123;</span><br><span class="line">  x.call(<span class="keyword">this</span>, <span class="number">1</span>, <span class="number">2</span>, <span class="number">3</span>);</span><br><span class="line">&#125;</span><br><span class="line"><span class="built_in">console</span>.timeEnd(<span class="string">"call"</span>);</span><br><span class="line"></span><br><span class="line"><span class="built_in">console</span>.time(<span class="string">"apply"</span>);</span><br><span class="line"><span class="keyword">for</span> (<span class="keyword">var</span> j = <span class="number">0</span>; j &lt; <span class="number">1000000</span>; j++) &#123;</span><br><span class="line">  x.apply(<span class="keyword">this</span>, a);</span><br><span class="line">&#125;</span><br><span class="line"><span class="built_in">console</span>.timeEnd(<span class="string">"apply"</span>);</span><br></pre></td></tr></table></figure>
+
+<p>console的结果：</p>
+<p><img src="http://upload-images.jianshu.io/upload_images/5308475-2f25092ecb658b17.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""></p>
+<p>可以发现 call 比 apply 快了10ms 左右，那是什么原因造成这样的呢？<br><strong>因为 apply 运行前要对作为参数的数组进行一系列检验和深拷贝，而 call 则没有</strong><br>我们看一下 ECMAScript 是怎么写的：</p>
+<p><img src="http://upload-images.jianshu.io/upload_images/5308475-40f7c9167b3a338d.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""></p>
+<p><img src="http://upload-images.jianshu.io/upload_images/5308475-93025d076479f624.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""></p>
+<p>由ECMAScript 标准发现 apply 比 call 的步骤多了好多，这就是 call 比 apply 执行速度快的原因！</p>
+]]></content>
+      <categories>
+        <category>前端</category>
+      </categories>
+      <tags>
+        <tag>前端</tag>
+        <tag>js</tag>
       </tags>
   </entry>
   <entry>
@@ -774,6 +774,70 @@
       </categories>
       <tags>
         <tag>node</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>react使用总结</title>
+    <url>/react-%E4%BD%BF%E7%94%A8-%E6%80%BB%E7%BB%93.html</url>
+    <content><![CDATA[<hr>
+<blockquote>
+<p>最近学了一些 react 和es6 的一些知识，并且使用 react 写了一个 TodoList 项目===&gt;<a href="http://shenzekun.cn/R-Todo/build/index.html" target="_blank" rel="noopener">预览</a> &amp;&amp; <a href="https://github.com/shenzekun/R-Todo" target="_blank" rel="noopener">源码</a> 感觉学的挺多的，并且遇到的坑也不少😂，说实话，一开始学 react 看到 jsx 语法有点不适应，说好的结构和行为分离呢😁，不过随着通过一个项目的完成，渐渐明白了这么写的好处</p>
+</blockquote>
+<a id="more"></a>
+
+<h3 id="好处"><a href="#好处" class="headerlink" title="好处"></a><strong>好处</strong></h3><ul>
+<li>自定义标签</li>
+<li>结构清晰</li>
+<li>代码模块化</li>
+<li>更加语义化</li>
+</ul>
+<h3 id="不过也有缺点"><a href="#不过也有缺点" class="headerlink" title="不过也有缺点"></a><strong>不过也有缺点</strong></h3><ul>
+<li>浏览器不支持这语法</li>
+<li>必须通过一大堆工具来转换</li>
+</ul>
+<h3 id="一些需要注意的点"><a href="#一些需要注意的点" class="headerlink" title="一些需要注意的点"></a>一些需要注意的点</h3><p><strong>1. react声明组件时，组件名称必须以大写字母开头如</strong>👉：<code>&lt;Todo /&gt;</code><br><strong>2. 每个标签必须闭合,因为采用的 js+xml 写法，如</strong>👉: <code>&lt;input /&gt;</code><br><strong>3. 组件的返回值只能有一个顶层元素，如</strong>👇：</p>
+<p>下面是错误的：</p>
+<figure class="highlight javascript"><table><tr><td class="code"><pre><span class="line">render () &#123;</span><br><span class="line">  <span class="keyword">return</span> (</span><br><span class="line">    &lt;div&gt;<span class="number">1</span>&lt;<span class="regexp">/div&gt;</span></span><br><span class="line"><span class="regexp">    &lt;div&gt;2&lt;/</span>div&gt;</span><br><span class="line">  )</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+<p>必须这样</p>
+<figure class="highlight javascript"><table><tr><td class="code"><pre><span class="line">render () &#123;</span><br><span class="line">  <span class="keyword">return</span> (</span><br><span class="line">    &lt;div&gt;</span><br><span class="line">        &lt;div&gt;<span class="number">1</span>&lt;<span class="regexp">/div&gt;</span></span><br><span class="line"><span class="regexp">        &lt;div&gt;2&lt;/</span>div&gt;</span><br><span class="line">    &lt;<span class="regexp">/div&gt;</span></span><br><span class="line"><span class="regexp">  )</span></span><br><span class="line"><span class="regexp">&#125;</span></span><br></pre></td></tr></table></figure>
+
+<p><strong>4.  return后面要加一个括号,目的是防止 JavaScript 代码在解析时自动在换行处添加分号</strong>:</p>
+<figure class="highlight javascript"><table><tr><td class="code"><pre><span class="line"> renderSquare(i) &#123;</span><br><span class="line">        <span class="keyword">return</span> (</span><br><span class="line">          &lt;Todo /&gt;</span><br><span class="line">        );</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+
+<p><strong>5. render()里面不能写 class,for,而是要写成<code>className</code>和<code>htmlFor</code>,因为 class ，for 是 javascript 的关键字，因此不能使用，如</strong>：</p>
+<p>下面是错误的</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">&lt;div class&#x3D;“xxx”&gt;</span><br></pre></td></tr></table></figure>
+<p>而是要写 className：</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">&lt;div className&#x3D;&quot;xxx&quot;&gt;</span><br></pre></td></tr></table></figure>
+
+<p><strong>6. 不要直接更新状态，如</strong></p>
+<figure class="highlight javascript"><table><tr><td class="code"><pre><span class="line"><span class="keyword">this</span>.state.comment = <span class="string">'Hello'</span>;</span><br></pre></td></tr></table></figure>
+<p>此代码<strong>不会</strong>重新渲染组件的，之前就这么写，啥反应也没有😂，应该要用<code>setState()</code>:👇</p>
+<figure class="highlight javascript"><table><tr><td class="code"><pre><span class="line"><span class="keyword">this</span>.setState(&#123;<span class="attr">comment</span>: <span class="string">'Hello'</span>&#125;);</span><br></pre></td></tr></table></figure>
+
+<p>（<strong>注意！！</strong>：构造函数（constructor）是唯一能够初始化 this.state 的地方。）</p>
+<p><strong>7. 使用<code>style</code></strong></p>
+<p>我们在 html 可以这么写：</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">&lt;div style&#x3D;&quot;background-color:red;&quot;&gt;&lt;&#x2F;div&gt;</span><br></pre></td></tr></table></figure>
+
+<p>但是在 jsx 里面却不能这么写，必须用两个花括号包裹，并且里面不能写<code>-</code>，要用驼峰形式写，如上面的 <code>background-color</code>写成<code>backgroundColor</code>:</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">&lt;div style&#x3D;&#123;&#123;backgroundColor: &#39;red&#39;&#125;&#125;&gt;&lt;&#x2F;div&gt;</span><br></pre></td></tr></table></figure>
+
+<p><strong>8. 关于 setState</strong></p>
+<p>setState方法用于更新当前组件的state状态值，但调用这个方法后，state并不会立即更新，而是在render方法调用后才会更新</p>
+<h3 id="react-特点"><a href="#react-特点" class="headerlink" title="react 特点"></a>react 特点</h3><ol>
+<li><strong>虚拟DOM</strong>: React是以数据驱动的，每次数据变化React都会扫描整个虚拟DOM树，自动计算与上次虚拟DOM的差异变化，然后针对需要变化的部分进行实际的浏览器DOM更新。</li>
+<li><strong>组件化：</strong> React可以从功能角度划分，将UI分解成不同组件，各组件都独立封装，整个UI是由一个个小组件构成的一个大组件，每个组件只关系自身的逻辑，彼此独立（比如你有个按钮，很多页面都有这个按钮，那么就可以把这个按钮封装成该组件）。</li>
+<li><strong>单项数据流</strong>：React只有单向数据流动-从父节点传递到子节点</li>
+</ol>
+]]></content>
+      <categories>
+        <category>前端</category>
+      </categories>
+      <tags>
+        <tag>react</tag>
       </tags>
   </entry>
   <entry>
@@ -882,70 +946,6 @@
 
 <h3 id="问题二十六"><a href="#问题二十六" class="headerlink" title="问题二十六"></a>问题二十六</h3><p>出现 could not connect to development server红色警报<br><img src="https://blog-1257878287.cos.ap-chengdu.myqcloud.com/2018-05-08-052952.png" alt=""></p>
 <p><strong>解决方法</strong><br>关掉 vpn ，或者不要开全局模式。。。很神奇</p>
-]]></content>
-      <categories>
-        <category>前端</category>
-      </categories>
-      <tags>
-        <tag>react</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>react使用总结</title>
-    <url>/react-%E4%BD%BF%E7%94%A8-%E6%80%BB%E7%BB%93.html</url>
-    <content><![CDATA[<hr>
-<blockquote>
-<p>最近学了一些 react 和es6 的一些知识，并且使用 react 写了一个 TodoList 项目===&gt;<a href="http://shenzekun.cn/R-Todo/build/index.html" target="_blank" rel="noopener">预览</a> &amp;&amp; <a href="https://github.com/shenzekun/R-Todo" target="_blank" rel="noopener">源码</a> 感觉学的挺多的，并且遇到的坑也不少😂，说实话，一开始学 react 看到 jsx 语法有点不适应，说好的结构和行为分离呢😁，不过随着通过一个项目的完成，渐渐明白了这么写的好处</p>
-</blockquote>
-<a id="more"></a>
-
-<h3 id="好处"><a href="#好处" class="headerlink" title="好处"></a><strong>好处</strong></h3><ul>
-<li>自定义标签</li>
-<li>结构清晰</li>
-<li>代码模块化</li>
-<li>更加语义化</li>
-</ul>
-<h3 id="不过也有缺点"><a href="#不过也有缺点" class="headerlink" title="不过也有缺点"></a><strong>不过也有缺点</strong></h3><ul>
-<li>浏览器不支持这语法</li>
-<li>必须通过一大堆工具来转换</li>
-</ul>
-<h3 id="一些需要注意的点"><a href="#一些需要注意的点" class="headerlink" title="一些需要注意的点"></a>一些需要注意的点</h3><p><strong>1. react声明组件时，组件名称必须以大写字母开头如</strong>👉：<code>&lt;Todo /&gt;</code><br><strong>2. 每个标签必须闭合,因为采用的 js+xml 写法，如</strong>👉: <code>&lt;input /&gt;</code><br><strong>3. 组件的返回值只能有一个顶层元素，如</strong>👇：</p>
-<p>下面是错误的：</p>
-<figure class="highlight javascript"><table><tr><td class="code"><pre><span class="line">render () &#123;</span><br><span class="line">  <span class="keyword">return</span> (</span><br><span class="line">    &lt;div&gt;<span class="number">1</span>&lt;<span class="regexp">/div&gt;</span></span><br><span class="line"><span class="regexp">    &lt;div&gt;2&lt;/</span>div&gt;</span><br><span class="line">  )</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
-
-<p>必须这样</p>
-<figure class="highlight javascript"><table><tr><td class="code"><pre><span class="line">render () &#123;</span><br><span class="line">  <span class="keyword">return</span> (</span><br><span class="line">    &lt;div&gt;</span><br><span class="line">        &lt;div&gt;<span class="number">1</span>&lt;<span class="regexp">/div&gt;</span></span><br><span class="line"><span class="regexp">        &lt;div&gt;2&lt;/</span>div&gt;</span><br><span class="line">    &lt;<span class="regexp">/div&gt;</span></span><br><span class="line"><span class="regexp">  )</span></span><br><span class="line"><span class="regexp">&#125;</span></span><br></pre></td></tr></table></figure>
-
-<p><strong>4.  return后面要加一个括号,目的是防止 JavaScript 代码在解析时自动在换行处添加分号</strong>:</p>
-<figure class="highlight javascript"><table><tr><td class="code"><pre><span class="line"> renderSquare(i) &#123;</span><br><span class="line">        <span class="keyword">return</span> (</span><br><span class="line">          &lt;Todo /&gt;</span><br><span class="line">        );</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
-
-
-<p><strong>5. render()里面不能写 class,for,而是要写成<code>className</code>和<code>htmlFor</code>,因为 class ，for 是 javascript 的关键字，因此不能使用，如</strong>：</p>
-<p>下面是错误的</p>
-<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">&lt;div class&#x3D;“xxx”&gt;</span><br></pre></td></tr></table></figure>
-<p>而是要写 className：</p>
-<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">&lt;div className&#x3D;&quot;xxx&quot;&gt;</span><br></pre></td></tr></table></figure>
-
-<p><strong>6. 不要直接更新状态，如</strong></p>
-<figure class="highlight javascript"><table><tr><td class="code"><pre><span class="line"><span class="keyword">this</span>.state.comment = <span class="string">'Hello'</span>;</span><br></pre></td></tr></table></figure>
-<p>此代码<strong>不会</strong>重新渲染组件的，之前就这么写，啥反应也没有😂，应该要用<code>setState()</code>:👇</p>
-<figure class="highlight javascript"><table><tr><td class="code"><pre><span class="line"><span class="keyword">this</span>.setState(&#123;<span class="attr">comment</span>: <span class="string">'Hello'</span>&#125;);</span><br></pre></td></tr></table></figure>
-
-<p>（<strong>注意！！</strong>：构造函数（constructor）是唯一能够初始化 this.state 的地方。）</p>
-<p><strong>7. 使用<code>style</code></strong></p>
-<p>我们在 html 可以这么写：</p>
-<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">&lt;div style&#x3D;&quot;background-color:red;&quot;&gt;&lt;&#x2F;div&gt;</span><br></pre></td></tr></table></figure>
-
-<p>但是在 jsx 里面却不能这么写，必须用两个花括号包裹，并且里面不能写<code>-</code>，要用驼峰形式写，如上面的 <code>background-color</code>写成<code>backgroundColor</code>:</p>
-<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">&lt;div style&#x3D;&#123;&#123;backgroundColor: &#39;red&#39;&#125;&#125;&gt;&lt;&#x2F;div&gt;</span><br></pre></td></tr></table></figure>
-
-<p><strong>8. 关于 setState</strong></p>
-<p>setState方法用于更新当前组件的state状态值，但调用这个方法后，state并不会立即更新，而是在render方法调用后才会更新</p>
-<h3 id="react-特点"><a href="#react-特点" class="headerlink" title="react 特点"></a>react 特点</h3><ol>
-<li><strong>虚拟DOM</strong>: React是以数据驱动的，每次数据变化React都会扫描整个虚拟DOM树，自动计算与上次虚拟DOM的差异变化，然后针对需要变化的部分进行实际的浏览器DOM更新。</li>
-<li><strong>组件化：</strong> React可以从功能角度划分，将UI分解成不同组件，各组件都独立封装，整个UI是由一个个小组件构成的一个大组件，每个组件只关系自身的逻辑，彼此独立（比如你有个按钮，很多页面都有这个按钮，那么就可以把这个按钮封装成该组件）。</li>
-<li><strong>单项数据流</strong>：React只有单向数据流动-从父节点传递到子节点</li>
-</ol>
 ]]></content>
       <categories>
         <category>前端</category>
