@@ -2432,4 +2432,12 @@
     <content><![CDATA[<p>哈哈哈</p>
 ]]></content>
   </entry>
+  <entry>
+    <title>backup</title>
+    <url>/backup.html</url>
+    <content><![CDATA[<h2 id="backup"><a href="#backup" class="headerlink" title="backup"></a>backup</h2><p>假设换了台电脑：安装好node+git<br>cmd 运行 npm i hexo-cli -g<br>直接用git clone 比较方便</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">git clone -b backup2 https:&#x2F;&#x2F;github.com&#x2F;xuehuaduoduo&#x2F;xuehuaduoduo.github.io.git</span><br></pre></td></tr></table></figure>
+<p>完成后直接npm i（npm install）,安装淘宝镜像可以用cnpm i比较快<br>然后hexo g生成public<br>hexo s 本地预览<br>hexo d上传 要把地址改为https。ssh是绑定机器码的</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">deploy:</span><br><span class="line">  type: &#39;git&#39;</span><br><span class="line">  repo: git@github.com:xuehuaduoduo&#x2F;xuehuaduoduo.github.io.git</span><br><span class="line">  改</span><br><span class="line">  repo: https:&#x2F;&#x2F;github.com&#x2F;xuehuaduoduo&#x2F;xuehuaduoduo.github.io.git</span><br><span class="line">  branch: master</span><br><span class="line">  message: Hexo update</span><br></pre></td></tr></table></figure>]]></content>
+  </entry>
 </search>
